@@ -1,0 +1,11 @@
+YCHERN|CHERN|SCSE|password|NO_CAMP|0|false
+KOH1|KOH|ADM|password|NO_CAMP|0|false
+BR015|BRANDON|EEE|password|NO_CAMP|0|false
+CT113|CALVIN|SCSE|password|NO_CAMP|0|false
+YCN019|CHAN|NBS|password|NO_CAMP|0|false
+DL007|DENSISE|SCSE|password|NO_CAMP|0|false
+DON84|DONG|ADM|password|NO_CAMP|0|false
+ELI34|ERNEST|EEE|password|NO_CAMP|0|false
+LE51|LEE|SCSE|password|NO_CAMP|0|false
+SL22|LIU|NBS|password|NO_CAMP|0|false
+AKY013|RAWAL|SSS|password|NO_CAMP|0|false
