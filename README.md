@@ -1,7 +1,7 @@
 # CAMS - Camp Application and Management System
 
 <p align="center">
-  <img src="./loginPortal.png" alt="Login Portal" width="800"/>
+  <img src="./Diagrams/loginPortal.png" alt="Login Portal" width="800"/>
 </p>
 
 
